@@ -1,1 +1,1 @@
-django3-starter-template
+# django3-starter-template
